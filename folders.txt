@@ -1,0 +1,2 @@
+Chn	-- Chinese Translation
+Eng	-- Original Version 
